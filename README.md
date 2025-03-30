@@ -20,3 +20,22 @@ Validation Loss в начале выглядит относительно ста
 После 15-й эпохи наблюдаются резкие скачки вверх, что указывает на переобучение.
 
 Validation ROC-AUC колеблется,а после 10 эпохи происходят резкие спады, что подтверждает ухудшение качества модели.
+
+
+
+# эксперимент 2
+
+![image](https://github.com/user-attachments/assets/e565872f-54b9-4a03-9d05-cc3af70d94f3)
+![image](https://github.com/user-attachments/assets/3c8f36fe-7f67-4a49-b54a-456ede4f36bf)
+
+
+Loss снижается быстрее, модель лучше обучается.
+
+
+# эксперимент 3
+
+![image](https://github.com/user-attachments/assets/c98b7491-0369-4f44-b80c-706be08ac654)
+![image](https://github.com/user-attachments/assets/0545fe20-aa59-441f-9369-dd23a973720a)
+
+
+Модель сходится еще быстрее, чем предудыщие, но метрики хуже
